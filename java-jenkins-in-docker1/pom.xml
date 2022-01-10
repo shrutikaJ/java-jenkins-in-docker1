@@ -81,5 +81,8 @@
         </plugin>
       </plugins>
     </pluginManagement>
+	 <build>
+      <finalName>java-jenkins-docker</finalName>
+    </build>
   </build>
 </project>
